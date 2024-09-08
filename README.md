@@ -1,8 +1,15 @@
-# React + Vite
+# Video_Gallery #Reactjs
+![Screenshot 2024-09-08 004132](https://github.com/user-attachments/assets/40cfd200-ec00-4a52-8341-68ec8903117f)
+![Screenshot 2024-09-08 024152](https://github.com/user-attachments/assets/72022a77-d755-430b-9148-5223ff0ccb2c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📥 Upload your videos directly
+▶️ Play, pause, and navigate through videos easily
+⏩ Forward and backward control using the progress bar
+🎛️ Video switching with previous/next buttons
 
-Currently, two official plugins are available:
+How to run it on your system:
+1.Install the repository.
+2.In terminal go to the Video_gallery folder directory >> cd..
+3.>>npm install
+4.>>npm run dev (the App server will run on local host)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
