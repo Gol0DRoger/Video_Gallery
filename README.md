@@ -8,8 +8,12 @@
 🎛️ Video switching with previous/next buttons
 
 How to run it on your system:
+
 1.Install the repository.
+
 2.In terminal go to the Video_gallery folder directory >> cd..
+
 3.>>npm install
+
 4.>>npm run dev (the App server will run on local host)
 
